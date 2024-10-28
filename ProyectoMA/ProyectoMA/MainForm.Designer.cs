@@ -61,6 +61,7 @@ namespace ProyectoMA
 			this.Btningles.TabIndex = 1;
 			this.Btningles.Text = "Ingles";
 			this.Btningles.UseVisualStyleBackColor = true;
+			this.Btningles.Click += new System.EventHandler(this.BtninglesClick);
 			// 
 			// Btnfisica
 			// 

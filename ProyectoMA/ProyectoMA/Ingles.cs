@@ -1,24 +1,23 @@
 ﻿/*
  * Created by SharpDevelop.
- * User: CC2_PC34
- * Date: 24/10/2024
- * Time: 07:55 a. m.
+ * User: CC2_PC10
+ * Date: 28/10/2024
+ * Time: 08:00 a. m.
  * 
  * To change this template use Tools | Options | Coding | Edit Standard Headers.
  */
 using System;
-using System.Collections.Generic;
 using System.Drawing;
 using System.Windows.Forms;
 
 namespace ProyectoMA
 {
 	/// <summary>
-	/// Description of MainForm.
+	/// Description of Ingles.
 	/// </summary>
-	public partial class MainForm : Form
+	public partial class Ingles : Form
 	{
-		public MainForm()
+		public Ingles()
 		{
 			//
 			// The InitializeComponent() call is required for Windows Forms designer support.
@@ -30,10 +29,6 @@ namespace ProyectoMA
 			//
 		}
 		
-		void BtninglesClick(object sender, EventArgs e)
-		{
-			Ingles Ingles = new Ingles();
-			Ingles.Show();
-		}
+		
 	}
 }
