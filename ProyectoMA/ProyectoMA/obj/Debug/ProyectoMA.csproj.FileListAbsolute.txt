@@ -5,3 +5,4 @@ C:\Users\CC2_PC34\Documents\ProyectoMA\ProyectoMA\ProyectoMA\obj\Debug\ProyectoM
 C:\Users\CC2_PC34\Documents\ProyectoMA\ProyectoMA\ProyectoMA\obj\Debug\ProyectoMA.csproj.GenerateResource.Cache
 C:\Users\CC2_PC34\Documents\ProyectoMA\ProyectoMA\ProyectoMA\obj\Debug\ProyectoMA.exe
 C:\Users\CC2_PC34\Documents\ProyectoMA\ProyectoMA\ProyectoMA\obj\Debug\ProyectoMA.pdb
+C:\Users\CC2_PC34\Documents\ProyectoMA\ProyectoMA\ProyectoMA\obj\Debug\ProyectoMA.Fisica.resources

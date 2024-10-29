@@ -70,6 +70,7 @@ namespace ProyectoMA
 			this.Btnfisica.TabIndex = 2;
 			this.Btnfisica.Text = "Fisica";
 			this.Btnfisica.UseVisualStyleBackColor = true;
+			this.Btnfisica.Click += new System.EventHandler(this.BtnfisicaClick);
 			// 
 			// Btnmateria1
 			// 
