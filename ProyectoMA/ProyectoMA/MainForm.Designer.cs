@@ -75,10 +75,12 @@ namespace ProyectoMA
 			// 
 			this.Btnmateria1.Location = new System.Drawing.Point(196, 194);
 			this.Btnmateria1.Name = "Btnmateria1";
+			this.Btnmateria1.RightToLeft = System.Windows.Forms.RightToLeft.Yes;
 			this.Btnmateria1.Size = new System.Drawing.Size(105, 38);
 			this.Btnmateria1.TabIndex = 3;
-			this.Btnmateria1.Text = "Materia 1";
+			this.Btnmateria1.Text = "artes";
 			this.Btnmateria1.UseVisualStyleBackColor = true;
+			this.Btnmateria1.Click += new System.EventHandler(this.Btnmateria1Click);
 			// 
 			// Btnmateria2
 			// 

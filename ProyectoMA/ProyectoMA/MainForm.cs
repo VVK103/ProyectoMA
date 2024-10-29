@@ -29,5 +29,12 @@ namespace ProyectoMA
 			// TODO: Add constructor code after the InitializeComponent() call.
 			//
 		}
+		
+		void Btnmateria1Click(object sender, EventArgs e)
+		{
+			c c =new c();
+			c.Show();
+			Hide();
+		}
 	}
 }
