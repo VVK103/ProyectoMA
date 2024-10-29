@@ -29,5 +29,11 @@ namespace ProyectoMA
 			// TODO: Add constructor code after the InitializeComponent() call.
 			//
 		}
+		
+		void BtnfisicaClick(object sender, EventArgs e)
+		{
+			Fisica Fisica = new Fisica();
+			Fisica.Show();
+		}
 	}
 }
