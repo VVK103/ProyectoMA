@@ -67,7 +67,6 @@ namespace ProyectoMA
 		
 		void Button5Click(object sender, EventArgs e)
 		{
-
 			SoundPlayer violin=new SoundPlayer();
 			violin.SoundLocation="C:/Users/CC2_PC32/ProyectoMA/ProyectoMA/guitarra.wav";
 			violin.Play();			
