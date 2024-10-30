@@ -72,6 +72,7 @@ namespace ProyectoMA
 			this.button2.TabIndex = 1;
 			this.button2.Text = "tocar";
 			this.button2.UseVisualStyleBackColor = true;
+			this.button2.Click += new System.EventHandler(this.Button2Click);
 			// 
 			// button3
 			// 
@@ -101,6 +102,7 @@ namespace ProyectoMA
 			this.button5.TabIndex = 4;
 			this.button5.Text = "tocar";
 			this.button5.UseVisualStyleBackColor = true;
+			this.button5.Click += new System.EventHandler(this.Button5Click);
 			// 
 			// pictureBox1
 			// 
